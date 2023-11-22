@@ -6,4 +6,6 @@ The natural vibration frequency of the structure is obtained by **Fourier transf
 ## Damping Ratio
 The structural damping ratio is calculated from the **logarithmic attenuation rate**, and some results are as follows.
 ![image](https://github.com/YangQinshan/Experimental-methods-for-seismic-resistance-of-structures/blob/main/img/TH_Data%201.png)\
-The specific code is contained in the **homework.ipynb file**, please contact the author for details and use.
+## Details
+The specific code is contained in the **homework.ipynb** file, please contact the author for details and use.\
+***Wechat***: A2272130002
