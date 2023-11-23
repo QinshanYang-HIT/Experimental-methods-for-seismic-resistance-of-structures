@@ -1,5 +1,5 @@
 # Experimental-methods-for-seismic-resistance-of-structures
-It's the assignment 2 of Experimental Methods for Seismic Resistance of Structures, mainly includes how to calculate the ***natural vibration frequency*** and ***damping ratio*** of the structure.
+It's the assignment 2 of Experimental Methods for Seismic Resistance of Structures, which mainly includes how to calculate the ***natural vibration frequency*** and ***damping ratio*** of the structure.
 ## Natural Vibration Frequency
 The natural vibration frequency of the structure is obtained by **Fourier transform**.Some of the results are shown below.
 ![image](https://github.com/YangQinshan/Experimental-methods-for-seismic-resistance-of-structures/blob/main/img/FFT_Data%201.png)
